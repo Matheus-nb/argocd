@@ -6,7 +6,7 @@ resources:
 
 namespace: goapp
 
-images: 
+images:
 - name: goapp
   newName: matheusnb/argocd
-  newTag: latest
+  newTag: bfae9c5c2930e77209a50693c27efc91999b37f0

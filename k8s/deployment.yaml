@@ -13,6 +13,6 @@ spec:
     spec:
       containers:
       - name: goapp
-        image: matheusnb/argocd:latest
+        image: goapp
         ports:
         - containerPort: 8080

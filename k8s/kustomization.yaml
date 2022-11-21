@@ -9,4 +9,4 @@ namespace: goapp
 images:
 - name: goapp
   newName: matheusnb/argocd
-  newTag: 9b428bdc72afa98bc6375c951d58c639020d835a
+  newTag: 6b0fc33739695240245e89d24e0a5def37089c61
